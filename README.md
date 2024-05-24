@@ -148,10 +148,17 @@ In a nutshell, I am a software developer and cloud enthusiast who builds persona
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=dormant-user&row=1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=dormant-user&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<a href="https://vigneshrao.com/projects">
+<img src="https://github-readme-stats-vignesh-raos-projects.vercel.app/api/?username=dormant-user&count_private=true&show_icons=true&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="470">
+</a>
+<br>
+<a href="https://vigneshrao.com/projects">
+<img src="https://github-readme-stats-vignesh-raos-projects.vercel.app/api/top-langs/?username=dormant-user&count_private=true&langs_count=50&hide=Jupyter%20Notebook,Makefile,Batchfile,Less,Ruby,CMake,HTML,CSS,SCSS,JavaScript&layout=donut-vertical&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="400">
+</a>
 
-<a href="https://vigneshrao.com/projects">
-<img src="https://github-readme-stats.vercel.app/api/?username=dormant-user&count_private=true&show_icons=true&theme=dark" width="500">
-</a>
-<a href="https://vigneshrao.com/projects">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dormant-user&count_private=true&langs_count=50&hide=Jupyter%20Notebook,Makefile,Batchfile,Less,Ruby,CMake,HTML,CSS,SCSS,JavaScript&layout=donut-vertical&theme=dark" width="400">
-</a>
+<!-- References:
+https://github.com/anuraghazra/github-readme-stats/issues/1#issuecomment-1645486687
+https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#deploy-on-your-own
+https://github.com/anuraghazra/github-readme-stats/pull/2459
+https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s
+-->
