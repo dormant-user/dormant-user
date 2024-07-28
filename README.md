@@ -153,7 +153,7 @@ In a nutshell, I am a software developer and cloud enthusiast who builds persona
 </a>
 <br>
 <a href="https://vigneshrao.com/projects">
-<img src="https://github-readme-stats-vignesh-raos-projects.vercel.app/api/top-langs/?username=dormant-user&count_private=true&langs_count=50&hide=Jupyter%20Notebook,Makefile,Batchfile,Less,Ruby,CMake,HTML,CSS,SCSS,JavaScript&layout=donut-vertical&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="400">
+<img src="https://github-readme-stats-vignesh-raos-projects.vercel.app/api/top-langs/?username=dormant-user&count_private=true&langs_count=50&layout=donut-vertical&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&size_weight=0.5&count_weight=0.5&exclude_repo=portfolio,kalihikai_s3,open-source,Jarvis&hide=HTML,Jupyter%20Notebook,CSS,CMake,Batchfile,Makefile" width="400">
 </a>
 
 <!-- References:
