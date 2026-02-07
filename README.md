@@ -145,9 +145,9 @@ In a nutshell, I am a software developer and cloud enthusiast who builds persona
 
 <!-- <img src="https://user-images.githubusercontent.com/38729644/88803242-cb449300-d171-11ea-9dbd-ba42e806fa8c.png" width="400" height="150" alt="git logo"> -->
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=dormant-user&row=1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- TODO: Self host the following -->
+<!-- [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=dormant-user&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=dormant-user&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 <a href="https://vigneshrao.com/projects">
 <img src="https://github-readme-stats-vignesh-raos-projects.vercel.app/api/?username=dormant-user&count_private=true&show_icons=true&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="470">
 </a>
