@@ -25,14 +25,15 @@ In a nutshell, I am a software developer and cloud enthusiast who builds persona
 
 ## Programming Languages
 <p>
+    <img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=orange"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=orange"/>
     <img src="https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=processingfoundation&logoColor=white"/>
     <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Apple_Script-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apple_Script-999999?style=for-the-badge&logo=apple&logoColor=white"/>
 </p>
 
 ## Sham Languages
@@ -57,44 +58,63 @@ In a nutshell, I am a software developer and cloud enthusiast who builds persona
 </p>
 
 ## Frameworks
-#### Dev Frameworks
+
+#### Backend Frameworks
 <p>
-    <img src="https://img.shields.io/badge/Actix-000?style=for-the-badge&logo=actix&logoColor=white">
-    <img src="https://img.shields.io/badge/FastAPI-%2300C4CC.svg?style=for-the-badge&logo=fastapi&logoColor=white">
-    <img src="https://img.shields.io/badge/spring-%2343853D.svg?style=for-the-badge&logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/Actix-000000?style=for-the-badge&logo=actix&logoColor=white">
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PyTest-0A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white">
-    <img src="https://img.shields.io/badge/node.js-%23430098?style=for-the-badge&logo=node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Bootstrap-593D88.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Apache_Tomcat-4053D6.svg?style=for-the-badge&logo=apachetomcat&logoColor=white">
-    <img src="https://img.shields.io/badge/AIOHTTP-2C5BB4.svg?style=for-the-badge&logo=aiohttp&logoColor=white">
-    <img src="https://img.shields.io/badge/OpenVPN-EA7E20.svg?style=for-the-badge&logo=OpenVPN&logoColor=white">
-    <img src="https://img.shields.io/badge/Palo_Alto-83DA77.svg?style=for-the-badge&logo=paloaltosoftware&logoColor=white">
-    <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white">
-    <img src="https://img.shields.io/badge/Azure_DevOps-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white">
-    <img src="https://img.shields.io/badge/Helm-0F1689.svg?style=for-the-badge&logo=helm&logoColor=white">
-    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Pre-Commit-FAB040?style=for-the-badge&logo=pre-commit&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Roku-662D91?style=for-the-badge&logo=roku&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=fff"/>
-    <img src="https://img.shields.io/badge/.ENV-ECD53F?style=for-the-badge&logo=dotenv&logoColor=000"/>
+    <img src="https://img.shields.io/badge/AIOHTTP-2C5BB4?style=for-the-badge&logo=aiohttp&logoColor=white">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
-#### Monitoring Web Frameworks
+#### Frontend Frameworks
 <p>
-    <img src="https://img.shields.io/badge/Splunk-000000.svg?style=for-the-badge&logo=splunk&logoColor=white">
-    <img src="https://img.shields.io/badge/NewRelic-008C99.svg?style=for-the-badge&logo=newrelic&logoColor=white">
-    <img src="https://img.shields.io/badge/Datadog-632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white">
-    <img src="https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+</p>
+
+#### Testing
+<p>
+    <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white">
+    <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white">
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+</p>
+
+#### DevOps / Infrastructure
+<p>
+    <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white">
+    <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white">
+    <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
+</p>
+
+#### Security / Networking
+<p>
+    <img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white">
+    <img src="https://img.shields.io/badge/Palo_Alto-F04E23?style=for-the-badge&logo=paloaltonetworks&logoColor=white">
+    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+</p>
+
+#### Databases
+<p>
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+    <img src="https://img.shields.io/badge/BoltDB-000000?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+#### Tools / Utilities
+<p>
+    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Pre--Commit-FAB040?style=for-the-badge&logo=pre-commit&logoColor=white"/>
+    <img src="https://img.shields.io/badge/.ENV-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Roku-6F1AB1?style=for-the-badge&logo=roku&logoColor=white"/>
 </p>
 
 ## Cloud Concepts
-<h3 align="center"><img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white"></h3>
 <p>
     <img src="https://img.shields.io/badge/Lambda-FF9900.svg?style=for-the-badge&logo=awslambda&logoColor=white">
     <img src="https://img.shields.io/badge/DynamoDB-4053D6.svg?style=for-the-badge&logo=amazondynamodb&logoColor=white">
@@ -110,6 +130,7 @@ In a nutshell, I am a software developer and cloud enthusiast who builds persona
 
 ## IDE/Platforms
 <p>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
     <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
     <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
