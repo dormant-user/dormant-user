@@ -170,11 +170,11 @@ In a nutshell, I am a software developer and cloud enthusiast who builds persona
 <!-- [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=dormant-user&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
 
 <a href="https://vigneshrao.com/projects">
-<img src="https://github-readme-stats-vignesh-raos-projects.vercel.app/api/?username=dormant-user&count_private=true&show_icons=true&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="470">
+<img src="https://github-readme-stats-vignesh-raos-projects.vercel.app/api/?username=dormant-user&count_private=true&show_icons=true&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&cache_seconds=86400" width="470">
 </a>
 <br>
 <a href="https://vigneshrao.com/projects">
-<img src="https://github-readme-stats-vignesh-raos-projects.vercel.app/api/top-langs/?username=dormant-user&count_private=true&langs_count=50&layout=donut-vertical&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&size_weight=0.5&count_weight=0.5&exclude_repo=portfolio,kalihikai_s3,open-source&hide=HTML,Jupyter%20Notebook,CSS,CMake,Batchfile,Makefile" width="400">
+<img src="https://github-readme-stats-vignesh-raos-projects.vercel.app/api/top-langs/?username=dormant-user&count_private=true&langs_count=50&layout=donut-vertical&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&size_weight=0.5&count_weight=0.5&exclude_repo=portfolio,kalihikai_s3,open-source&hide=HTML,Jupyter%20Notebook,CSS,CMake,Batchfile,Makefile&cache_seconds=86400" width="400">
 </a>
 
 <!-- References:
